@@ -39,20 +39,20 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um titulo de um ebook sobre o tema do jogo Black Desert Online, o ebook e do nicho de jogos de RPG online, e subnicho de jogadores iniciantes, o titulo deve ser epico e curto, e que tenha uma tematica para iniciantes, me liste 5 variaçoes de titulos.                                                        |
+| conteúdo | Faça um texto para ebook, com base no jogo Black Desert Online, indicando os primeiros passos para um jogador iniciante. {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto,  , sempre deixe um título sugestivo por tópico |
 
 
-Midjourney：
+ChatGPT：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Retratar imagine uma imagem para a capa do meu ebook "Iniciando no Mundo de Black Desert: Sua Aventura Épica" |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via ChatGPT
 
 ## 📚 Materiais
 
